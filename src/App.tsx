@@ -19,7 +19,7 @@ import {
   keyframes,
   IconProps,
 } from "@chakra-ui/react";
-import { Sun, Moon, Menu, X, Twitter } from "lucide-react";
+import { Sun, Moon, Menu, X, } from "lucide-react";
 import { BellIcon } from "@chakra-ui/icons";
 import { FaGithub, FaLinkedin } from "react-icons/fa";
 import { HiOutlineArrowLongUp } from "react-icons/hi2";
